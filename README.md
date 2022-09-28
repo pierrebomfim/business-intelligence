@@ -5,7 +5,6 @@ Business intelligence (BI) leverages software and services to transform data int
 Below are some piece of software developed by me for this purpose.
 
 
-
 ## Document AI
 
 <img align="right" src="images/documentai-logo.svg" width="100">
@@ -16,11 +15,11 @@ Document AI ( Google Cloud Plataform) is a document understanding platform that 
 * [Colab Notebook](https://colab.research.google.com/drive/1AYelssPzeytUQHM9b04oA9qSRBWzpYCw?usp=sharing)
 
 
-## SweetViz
+## Extract data from PDF files
 
-<img align="right" src="images/sweetviz-logo.png" width="150">
+<img align="right" src="images/pdfplumber.jpeg" width="200">
 
-DSweetviz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code.
+*PDFPlumber* is a python library to plumb a PDF for detailed information about each text character, rectangle, and line.
 
 * [Medium article](https://medium.com/@pierrebomfim/an%C3%A1lise-explorat%C3%B3ria-de-dados-com-apenas-3-linhas-de-c%C3%B3digo-3f6ee1e218b2)
 * [Colab Notebook](https://colab.research.google.com/drive/1b3Ey26W3ZoXU6CfXS2r4GW8N4gjX91oA?usp=sharing)
