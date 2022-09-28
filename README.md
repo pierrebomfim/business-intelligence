@@ -7,9 +7,9 @@ Below are some piece of software developed by me for this purpose.
 
 ## Document AI
 
-<img align="right" src="images/documentai-logo.svg" width="100">
+<img align="right" src="images/documentai-logo.svg" width="200">
 
-Document AI ( Google Cloud Plataform) is a document understanding platform that takes unstructured data from documents and transforms it into structured data, making it easier to understand, analyze, and consume. It uses machine learning and Google Cloud to help you create scalable, end-to-end, cloud-based document processing applications. 
+**Document AI** ( Google Cloud Plataform) is a document understanding platform that takes unstructured data from documents and transforms it into structured data, making it easier to understand, analyze, and consume. It uses machine learning and Google Cloud to help you create scalable, end-to-end, cloud-based document processing applications. 
 
 * [Medium article](https://medium.com/@pierrebomfim/como-extrair-dados-de-um-documento-com-o-google-document-ai-fba3eaf8f65f)
 * [Colab Notebook](https://colab.research.google.com/drive/1AYelssPzeytUQHM9b04oA9qSRBWzpYCw?usp=sharing)
@@ -19,8 +19,8 @@ Document AI ( Google Cloud Plataform) is a document understanding platform that 
 
 <img align="right" src="images/pdfplumber.jpeg" width="200">
 
-*PDFPlumber* is a python library to plumb a PDF for detailed information about each text character, rectangle, and line.
+**PDFPlumber** is a python library to plumb a PDF for detailed information about each text character, rectangle, and line.
 
-* [Medium article](https://medium.com/@pierrebomfim/an%C3%A1lise-explorat%C3%B3ria-de-dados-com-apenas-3-linhas-de-c%C3%B3digo-3f6ee1e218b2)
-* [Colab Notebook](https://colab.research.google.com/drive/1b3Ey26W3ZoXU6CfXS2r4GW8N4gjX91oA?usp=sharing)
+* [Medium article](https://medium.com/@pierrebomfim/the-easiest-way-to-extract-data-from-a-pdf-file-using-python-b67d301a4499)
+* [Colab Notebook](https://colab.research.google.com/drive/1qDH9912u6c9WRaDhtAux6QSF2-VxMVxP?usp=sharing)
 
