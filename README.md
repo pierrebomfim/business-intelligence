@@ -1,6 +1,7 @@
 # Business-Intelligence
 
 Business intelligence (BI) leverages software and services to transform data into actionable insights that inform an organization’s strategic and tactical business decisions. 
+
 Below are some piece of software developed by me for this purpose.
 
 
