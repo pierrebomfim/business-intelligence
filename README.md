@@ -16,7 +16,7 @@ Document AI ( Google Cloud Plataform) is a document understanding platform that 
 
 ## SweetViz
 
-<img align="right" src="images/sweetviz-logo.png" width="100">
+<img align="right" src="images/sweetviz-logo.png" width="150">
 
 Document AI ( Google Cloud Plataform) is a document understanding platform that takes unstructured data from documents and transforms it into structured data, making it easier to understand, analyze, and consume. It uses machine learning and Google Cloud to help you create scalable, end-to-end, cloud-based document processing applications. 
 
