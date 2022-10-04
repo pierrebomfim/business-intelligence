@@ -15,6 +15,19 @@ Below are some piece of software developed by me for this purpose.
 * [Colab Notebook](https://colab.research.google.com/drive/1AYelssPzeytUQHM9b04oA9qSRBWzpYCw?usp=sharing)
 
 
+
+
+## Write and read XSML files
+
+<img align="right" src="images/open.png" width="200">
+
+**Opempyxl** openpyxl is a Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files. It was born from lack of existing library to read/write natively from Python the Office Open XML format.
+
+* [Medium article]('')
+* [Colab Notebook](https://colab.research.google.com/drive/1qqeZuqvC559jvvrLNZDhrUVHG-a2JXwk?usp=sharing)
+
+
+
 ## Extract data from PDF files
 
 <img align="right" src="images/pdfplumber.jpeg" width="200">
